@@ -1,15 +1,14 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
 🎓 3rd Year Student @ ITM(SLS) Baroda University  
-💻 Software Development Enthusiast  |  Leetcoder  | Learning MERN Stack
+💻 Software Development Enthusiast  |  Leetcoder  | Learning MERN Stack  |  Gate Aspirant
 
 ---
 
 ## 🚀 About Me
 
 - 🔧 **Learning MERN Stack Development** (MongoDB, Express.js, React, Node.js)
-- 🤖 **Also Exploring AI/ML**
-- 💻 Apart from this, I love to solve algorithmic problems on coding platforms like **Leetcode**.
+- 💻 I also love solving algorithmic problems on coding platforms like **Leetcode**.
 - 💡 Building side projects to improve my problem-solving and software engineering skills
 
 ---
@@ -35,13 +34,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=red)
-
-### 🧠 Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-11557c?style=flat-square&logo=tensorflow&logoColor=gold)
 
 ### 👨‍💻Soft Skills
 ![Problem Solving](https://img.shields.io/badge/Problem%20Sills-FF6745?style=flat-square&logo=leetcode&logoColor=black)
