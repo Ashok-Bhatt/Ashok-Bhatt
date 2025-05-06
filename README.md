@@ -64,14 +64,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=8&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=10&theme=radical&layout=compact)
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 Email: ashokbhatt2048@email.com  
-- 💼 LinkedIn: [linkedin.com/in/ashokbhatt](https://linkedin.com/in/ashok-bhatt-11b5a7329)  
+- 💼 LinkedIn: [linkedin.com/in/ashokbhatt](https://linkedin.com/in/ashok-bhatt-11b5a7329)
+- 💻 Codolio : [codolio.com/profile/ashokbhatt](https://codolio.com/profile/Ashok%20Bhatt)
 
 ---
 
