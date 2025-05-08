@@ -47,6 +47,17 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-ff6hh7?style=flat-square&logo=android-studio&logoColor=white)
 ---
 
+## 📂 Projects
+
+| Project | Technologies Used |
+|---------------------|-------------------|
+| **FlavorFusion** – A recipe app with meal planner | Java, Android Studio, Firebase, Spoonacular API |
+| **Smart Attendance System** – Face recognition-based student attendance web app | React, Flask, MonngoDB, TensorFlow |
+| **TechSagers** – Blog Website | React, Appwrite, Redux |
+| **Kaun Banega Crorepati** – A Quiz gamed based on KBC | HTML, CSS, Javascript |
+
+---
+
 ## 🏆 Achievements
 
 - Secured **AIR 8129** in Gate CS among 1.7 lac candidates (Top 5%)
@@ -64,7 +75,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=10&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=8&theme=radical&layout=compact)
 
 ---
 
