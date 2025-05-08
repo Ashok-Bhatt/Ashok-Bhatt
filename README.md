@@ -51,10 +51,10 @@
 
 | Project | Technologies Used |
 |---------------------|-------------------|
-| **FlavorFusion** – A recipe app with meal planner | Java, Android Studio, Firebase, Spoonacular API |
-| **Smart Attendance System** – Face recognition-based student attendance web app | React, Flask, MonngoDB, TensorFlow |
-| **TechSagers** – Blog Website | React, Appwrite, Redux |
-| **Kaun Banega Crorepati** – A Quiz gamed based on KBC | HTML, CSS, Javascript |
+| **FlavorFusion** – An android app that let user navigate through vast set of recipes | Java, Android Studio, Firebase, Spoonacular API |
+| **Smart Attendance System** – Face recognition based student attendance web app | React, Flask, MongoDB, TensorFlow |
+| **TechSagers** – A Blog Website | React, Appwrite, Redux, TinyMCE Plugin |
+| **Kaun Banega Crorepati** – A Quiz game based on Reality Show, KBC | HTML, CSS, Javascript |
 
 ---
 
@@ -75,7 +75,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=8&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=6&theme=radical&layout=compact)
 
 ---
 
