@@ -9,6 +9,7 @@
 
 - 🔧 **Learning MERN Stack Development** (MongoDB, Express.js, React, Node.js)
 - 💻 I also love solving algorithmic problems on coding platforms like **Leetcode**.
+- 👨‍💻 Actively participating in Leetcode Contests
 - 💡 Building side projects to improve my problem-solving and software engineering skills
 
 ---
@@ -88,7 +89,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=6&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=8&theme=radical&layout=compact)
 
 ---
 
