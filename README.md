@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
-🎓 3rd Year Student @ ITM(SLS) Baroda University  
+🎓 Pre-final Year Student @ ITM(SLS) Baroda University  
 💻 Software Development Enthusiast  |  Leetcoder  | Learning MERN Stack  |  Gate Aspirant
 
 ---
@@ -18,45 +18,45 @@
 
 ### 💻 Languages
 <table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br/>Python</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/><br/>JavaScript</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br/>Java</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>C++</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50" height="50"/><br/>C</td>
-</tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br/>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50" height="50"/><br/>C</td>
+  </tr>
 </table>
 
 ### 🌐 Frontend
 <table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>React</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br/>HTML</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/>CSS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/>Bootstrap</td>
-</tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/>Bootstrap</td>
+  </tr>
 </table>
 
 ### ⚙️ Backend & Database
 <table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br/>Node.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br/>Express.js</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br/>MongoDB</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/><br/>Firebase</td>
-</tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br/>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/><br/>Firebase</td>
+  </tr>
 </table>
 
 ### 🛠 Tools
 <table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br/>Git</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br/>GitHub</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/><br/>Postman</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br/>VS Code</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50"/><br/>Android Studio</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=replit" width="50" height="50"/><br/>Replit</td>
-</tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/><br/>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br/>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50"/><br/>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=replit" width="50" height="50"/><br/>Replit</td>
+  </tr>
 </table>
 
 ---
@@ -69,6 +69,7 @@
 | **Smart Attendance System** – Face recognition based student attendance web app | React, Flask, MongoDB, TensorFlow |
 | **TechSagers** – A Blog Website | React, Appwrite, Redux, TinyMCE Plugin |
 | **Kaun Banega Crorepati** – A Quiz game based on Reality Show, KBC | HTML, CSS, Javascript |
+
 
 ---
 
@@ -90,6 +91,27 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=8&theme=radical&layout=compact)
+
+---
+
+## Coding Profiles
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/ashokbhatt2048/"><img src="./leetcode_logo.png" height="75" width="75"></a>
+      <br/> Leetcode
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/ashokbhacjou/"><img src="./gfg_logo.png" height="75" width="75"></a>
+      <br/> GFG
+    </td>
+    <td align="center">
+      <a href="https://www.naukri.com/code360/profile/AshokBhatt"><img src="./code360_logo.png" height="75" width="75"></a>
+      <br/> Code360
+    </td>
+  </tr>
+</table>
 
 ---
 
