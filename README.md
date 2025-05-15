@@ -99,15 +99,15 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/u/ashokbhatt2048/"><img src="./leetcode_logo.png" height="75" width="75"></a>
+      <a href="https://leetcode.com/u/ashokbhatt2048/"><img src="./Assets/leetcode_logo.png" height="75" width="75"></a>
       <br/> Leetcode
     </td>
     <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/ashokbhacjou/"><img src="./gfg_logo.png" height="75" width="75"></a>
+      <a href="https://www.geeksforgeeks.org/user/ashokbhacjou/"><img src="./Assets/gfg_logo.png" height="75" width="75"></a>
       <br/> GFG
     </td>
     <td align="center">
-      <a href="https://www.naukri.com/code360/profile/AshokBhatt"><img src="./code360_logo.png" height="75" width="75"></a>
+      <a href="https://www.naukri.com/code360/profile/AshokBhatt"><img src="./Assets/code360_logo.png" height="75" width="75"></a>
       <br/> Code360
     </td>
   </tr>
