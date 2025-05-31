@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
 🎓 Pre-final Year Student @ ITM(SLS) Baroda University  
-💻 Software Development Enthusiast  |  Leetcoder  | Learning MERN Stack  |  Gate Aspirant
+💻 Software Development Enthusiast | Leetcoder | Gate Aspirant
 
 ---
 
@@ -11,12 +11,14 @@
 - 💻 I also love solving algorithmic problems on coding platforms like **Leetcode**.
 - 👨‍💻 Actively participating in Leetcode Contests
 - 💡 Building side projects to improve my problem-solving and software engineering skills
+- 📓Preparing for GATE CS 2026
 
 ---
 
 ## 🛠 Tools & Technologies I Know
 
 ### 💻 Languages
+
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br/>Python</td>
@@ -28,16 +30,19 @@
 </table>
 
 ### 🌐 Frontend
+
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br/>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br/>Tailwind</td>
   </tr>
 </table>
 
 ### ⚙️ Backend & Database
+
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br/>Node.js</td>
@@ -48,6 +53,7 @@
 </table>
 
 ### 🛠 Tools
+
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br/>Git</td>
@@ -63,13 +69,12 @@
 
 ## 📂 Projects
 
-| Project | Technologies Used |
-|---------------------|-------------------|
+| Project                                                                              | Technologies Used                               |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | **FlavorFusion** – An android app that let user navigate through vast set of recipes | Java, Android Studio, Firebase, Spoonacular API |
-| **Smart Attendance System** – Face recognition based student attendance web app | React, Flask, MongoDB, TensorFlow |
-| **TechSagers** – A Blog Website | React, Appwrite, Redux, TinyMCE Plugin |
-| **Kaun Banega Crorepati** – A Quiz game based on Reality Show, KBC | HTML, CSS, Javascript |
-
+| **Smart Attendance System** – Face recognition based student attendance web app      | React, Flask, MongoDB, TensorFlow               |
+| **TechSagers** – A Blog Website                                                      | React, Appwrite, Redux, TinyMCE Plugin          |
+| **Kaun Banega Crorepati** – A Quiz game based on Reality Show, KBC                   | HTML, CSS, Javascript                           |
 
 ---
 
@@ -77,7 +82,7 @@
 
 - Secured **AIR 8129** in Gate CS among 1.7 lac candidates (Top 5%)
 - Secured Rank 1 in **Illuminati Code Clash 2025** at ITM(SLS) Baroda University
-- Leetcode Contest Rating : 1700+ (Max Rating: 1726) 
+- Leetcode Contest Rating : 1700+ (Max Rating: 1726)
 - Institute rank 1 at GeeksForGeeks
 - Solved 900+ DSA Problems on Leetcode and GeeksForGeeks combined
 - Secured 2529/36341, 1805/32562 and 2975/28441 ranks in Leetcode Biweekly 137, Weekly 420 and Weekly 441 contests respectively
@@ -90,7 +95,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=8&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=6&theme=radical&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ashok-Bhatt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -99,15 +110,15 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/u/ashokbhatt2048/"><img src="./Assets/leetcode_logo.png" height="75" width="75"></a>
+      <a href="https://leetcode.com/u/ashokbhatt2048/"><img src="./Assets/leetcode_logo.png" style="border-radius:50%; border:2px solid white" height="75" width="75"></a>
       <br/> Leetcode
     </td>
     <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/ashokbhacjou/"><img src="./Assets/gfg_logo.png" height="75" width="75"></a>
+      <a href="https://www.geeksforgeeks.org/user/ashokbhacjou/"><img src="./Assets/gfg_logo.jpg" style="border-radius:50%; border:2px solid white"height="75" width="75"></a>
       <br/> GFG
     </td>
     <td align="center">
-      <a href="https://www.naukri.com/code360/profile/AshokBhatt"><img src="./Assets/code360_logo.png" height="75" width="75"></a>
+      <a href="https://www.naukri.com/code360/profile/AshokBhatt"><img src="./Assets/code360_logo.png" style="border-radius:50%; border:2px solid white"height="75" width="75"></a>
       <br/> Code360
     </td>
   </tr>
@@ -117,7 +128,7 @@
 
 ## 📬 Let's Connect
 
-- 📧 Email: ashokbhatt2048@email.com  
+- 📧 Email: ashokbhatt2048@email.com
 - 💼 LinkedIn: [linkedin.com/in/ashokbhatt](https://linkedin.com/in/ashok-bhatt-11b5a7329)
 - 💻 Codolio : [codolio.com/profile/ashokbhatt](https://codolio.com/profile/Ashok%20Bhatt)
 
