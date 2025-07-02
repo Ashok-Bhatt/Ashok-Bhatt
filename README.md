@@ -1,17 +1,15 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
-🎓 Pre-final Year Student @ ITM(SLS) Baroda University  
-💻 Software Development Enthusiast | Leetcoder | Gate Aspirant
+### Final Year Student @ ITM(SLS) Baroda University |  Software Development Enthusiast | Hardcore Leetcoder
 
----
 
 ## 🚀 About Me
 
-- 🔧 **Learning MERN Stack Development** (MongoDB, Express.js, React, Node.js)
-- 💻 I also love solving algorithmic problems on coding platforms like **Leetcode**.
-- 👨‍💻 Actively participating in Leetcode Contests
-- 💡 Building side projects to improve my problem-solving and software engineering skills
-- 📓Preparing for GATE CS 2026
+- 🧑‍💻 Passionate about building software that solves real-world problems
+- 💻 Enthusiastic about tackling algorithmic challenges on platforms like LeetCode and Geeksforgeeks
+- 🏆 Regular participant in LeetCode contests to sharpen problem-solving skills
+- 💡 Constantly working on projects to enhance my software development expertise
+- 📚 Preparing for GATE CS 2026, aiming to deepen my understanding of core computer science concepts
 
 ---
 
@@ -38,6 +36,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/>Bootstrap</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br/>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50" height="50"/><br/>Redux</td>
   </tr>
 </table>
 
@@ -69,12 +68,12 @@
 
 ## 📂 Projects
 
-| Project                                                                              | Technologies Used                               |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| Project | Technologies Used |
+| --- | --- |
 | **FlavorFusion** – An android app that let user navigate through vast set of recipes | Java, Android Studio, Firebase, Spoonacular API |
-| **Smart Attendance System** – Face recognition based student attendance web app      | React, Flask, MongoDB, TensorFlow               |
-| **TechSagers** – A Blog Website                                                      | React, Appwrite, Redux, TinyMCE Plugin          |
-| **Kaun Banega Crorepati** – A Quiz game based on Reality Show, KBC                   | HTML, CSS, Javascript                           |
+| **Smart Attendance System** – Face recognition based student attendance web app | React, Flask, MongoDB, TensorFlow |
+| **TechSagers** – A Blog Website | React, Appwrite, Redux, TinyMCE Plugin |
+| **Collab Horizon** – A Team Project Management System | React, Node, Express, MongoDB, Cloudinary API |
 
 ---
 
@@ -82,9 +81,9 @@
 
 - Secured **AIR 8129** in Gate CS among 1.7 lac candidates (Top 5%)
 - Secured Rank 1 in **Illuminati Code Clash 2025** at ITM(SLS) Baroda University
-- Leetcode Contest Rating : 1700+ (Max Rating: 1726)
-- Institute rank 1 at GeeksForGeeks
-- Solved 900+ DSA Problems on Leetcode and GeeksForGeeks combined
+- Achieved peak rating of 1728 in Leetcode
+- Currently holding Institute rank 1 in GeeksForGeeks University Leaderboard
+- Solved 1000+ DSA Problems on Leetcode and GeeksForGeeks combined
 - Secured 2529/36341, 1805/32562 and 2975/28441 ranks in Leetcode Biweekly 137, Weekly 420 and Weekly 441 contests respectively
 
 ---
@@ -126,11 +125,32 @@
 
 ---
 
-## 📬 Let's Connect
+## 📬 My Social Profiles
 
-- 📧 Email: ashokbhatt2048@email.com
-- 💼 LinkedIn: [linkedin.com/in/ashokbhatt](https://linkedin.com/in/ashok-bhatt-11b5a7329)
-- 💻 Codolio : [codolio.com/profile/ashokbhatt](https://codolio.com/profile/Ashok%20Bhatt)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ashokbhatt2048/"><img src="./Assets/linkedin_logo.png" style="border-radius:50%; border:2px solid white" height="75" width="75"></a>
+      <br/> Linkedin
+    </td>
+    <td align="center">
+      <a href="mailto:ashokbhatt2048@email.com">
+        <img src="./Assets/gmail_logo.png" style="border-radius:50%; border:2px solid white" height="75" width="75">
+      </a>
+      <br/> Email
+    </td>
+    <td align="center">
+      <a href="https://codolio.com/profile/Ashok%20Bhatt"><img src="./Assets/codolio_logo.png" style="border-radius:50%; border:2px solid white"height="75" width="75"></a>
+      <br/> Codolio
+    </td>
+    <td align="center">
+      <a href="https://personal-portfolio-website-gamma-nine.vercel.app/"><img src="./Assets/coder_logo.png" style="border-radius:50%; border:2px solid white"height="75" width="75"></a>
+      <br/> Portfolio
+    </td>
+  </tr>
+</table>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ashok-Bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="ashokbhatt" /> </p>
 
 ---
 
