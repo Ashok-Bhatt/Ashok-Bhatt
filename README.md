@@ -1,7 +1,8 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
-### Final Year Student @ ITM(SLS) Baroda University |  Software Development Enthusiast | Hardcore Leetcoder
+### Final Year Student @ ITM(SLS) Baroda University | Software Development Enthusiast | Hardcore Leetcoder
 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTZxYWtmMWIxdnZzbnBiNm9qNGpyZ2syaGRpcGlvc2VmYjN4bG5ycSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="programming gif" width="100%">
 
 ## 🚀 About Me
 
@@ -9,7 +10,6 @@
 - 💻 Enthusiastic about tackling algorithmic challenges on platforms like LeetCode and Geeksforgeeks
 - 🏆 Regular participant in LeetCode contests to sharpen problem-solving skills
 - 💡 Constantly working on projects to enhance my software development expertise
-- 📚 Preparing for GATE CS 2026, aiming to deepen my understanding of core computer science concepts
 
 ---
 
@@ -21,9 +21,9 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br/>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br/>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>C++</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50" height="50"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br/>Java</td>
   </tr>
 </table>
 
@@ -31,12 +31,11 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br/>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br/>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50" height="50"/><br/>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/>Bootstrap</td>
   </tr>
 </table>
 
@@ -51,7 +50,7 @@
   </tr>
 </table>
 
-### 🛠 Tools
+### 🛠 Developers Tools
 
 <table>
   <tr>
@@ -68,12 +67,13 @@
 
 ## 📂 Projects
 
-| Project | Technologies Used |
-| --- | --- |
+| Project                                                                              | Technologies Used                               |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | **FlavorFusion** – An android app that let user navigate through vast set of recipes | Java, Android Studio, Firebase, Spoonacular API |
-| **Smart Attendance System** – Face recognition based student attendance web app | React, Flask, MongoDB, TensorFlow |
-| **TechSagers** – A Blog Website | React, Appwrite, Redux, TinyMCE Plugin |
-| **Collab Horizon** – A Team Project Management System | React, Node, Express, MongoDB, Cloudinary API |
+| **Smart Attendance System** – Face recognition based student attendance web app      | React, Flask, MongoDB, TensorFlow               |
+| **TechSagers** – A Blog Website                                                      | React, Appwrite, Redux, TinyMCE Plugin          |
+| **Collab Horizon** – A Team Project Management System                                | React, Node, Express, MongoDB, Cloudinary API   |
+| **KBC** - A Quiz Game Inspired from Reality Show Kaun Banega Crorepati               | HTML, CSS, Javascript, Trivia API               |
 
 ---
 
@@ -81,20 +81,34 @@
 
 - Secured **AIR 8129** in Gate CS among 1.7 lac candidates (Top 5%)
 - Secured Rank 1 in **Illuminati Code Clash 2025** at ITM(SLS) Baroda University
-- Achieved peak rating of 1728 in Leetcode
+- Achieved peak rating of 1729 in Leetcode
 - Currently holding Institute rank 1 in GeeksForGeeks University Leaderboard
 - Solved 1000+ DSA Problems on Leetcode and GeeksForGeeks combined
-- Secured 2529/36341, 1805/32562 and 2975/28441 ranks in Leetcode Biweekly 137, Weekly 420 and Weekly 441 contests respectively
+- Secured 2529/36341, 1805/32563 and 1698/31670 ranks in LeetCode Biweekly 137, Weekly 420 and Biweekly 161
+  contests respectively.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashok-Bhatt&show_icons=true&theme=radical&hide=issues)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=6&theme=radical&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ashok-Bhatt&show_icons=true&theme=radical" alt="Ashok's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Ashok-Bhatt&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Bhatt&langs_count=6&theme=radical&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Ashok-Bhatt&limit=4&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -129,6 +143,10 @@
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://x.com/AshokBhatt619"><img src="./Assets/x_logo.png" style="border-radius:50%; border:2px solid white" height="75" width="75"></a>
+      <br/> X
+    </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/ashokbhatt2048/"><img src="./Assets/linkedin_logo.png" style="border-radius:50%; border:2px solid white" height="75" width="75"></a>
       <br/> Linkedin
