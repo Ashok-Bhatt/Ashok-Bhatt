@@ -4,14 +4,23 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTZxYWtmMWIxdnZzbnBiNm9qNGpyZ2syaGRpcGlvc2VmYjN4bG5ycSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="programming gif" width="100%">
 
-## 🚀 About Me
+## About Me  
 
-- 🧑‍💻 Passionate about building software that solves real-world problems
-- 💻 Enthusiastic about tackling algorithmic challenges on platforms like LeetCode and Geeksforgeeks
-- 🏆 Regular participant in LeetCode contests to sharpen problem-solving skills
-- 💡 Constantly working on projects to enhance my software development expertise
+<table>
+  <tr>
+    <td width="55%">
+      
+- 🧑‍💻 Passionate about building software that solves real-world problems  
+- 💻 Enthusiastic about tackling algorithmic challenges on platforms like LeetCode and GeeksforGeeks  
+- 🏆 Regular participant in LeetCode contests to sharpen problem-solving skills  
+- 💡 Constantly working on projects to enhance my software development expertise  
 
----
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThvZXJzZXRpbWk5cHV0b3ZrZ2Y2YXhvaDE1dDdhYTJkeHI1NzhhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="programming gif" width="300px">
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tools & Technologies I Know
 
