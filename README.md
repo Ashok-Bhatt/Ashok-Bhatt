@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
-### Final Year Student @ ITM(SLS) Baroda University | Software Development Enthusiast | Hardcore Leetcoder
+### Final Year Student @ ITM(SLS) Baroda University | Software Development Enthusiast | Hardcore Leetcoder | MERN Stack Developer
 
 ## About Me
 
@@ -75,13 +75,13 @@
 
 ## 📂 Projects
 
-| Project                                                                              | Technologies Used                               |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| **FlavorFusion** – An android app that let user navigate through vast set of recipes | Java, Android Studio, Firebase, Spoonacular API |
-| **Smart Attendance System** – Face recognition based student attendance web app      | React, Flask, MongoDB, TensorFlow               |
-| **TechSagers** – A Blog Website                                                      | React, Appwrite, Redux, TinyMCE Plugin          |
-| **Collab Horizon** – A Team Project Management System                                | React, Node, Express, MongoDB, Cloudinary API   |
-| **KBC** - A Quiz Game Inspired from Reality Show Kaun Banega Crorepati               | HTML, CSS, Javascript, Trivia API               |
+| Project                                                                                      | Technologies Used                                                                    |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **FlavorFusion** – An android app that let user navigate through vast set of recipes         | Java, Android Studio, Firebase, Spoonacular API                                      |
+| **Smart Attendance System** – Face recognition based student attendance web app              | React, Tailwind, Flask, MongoDB, TensorFlow                                          |
+| **Scrape Spidey** – A public API that can scrape profile data from different coding profiles | React, Tailwind, Node, Express, Puppeteer, Browserless API                           |
+| **Collab Horizon** – A Team Project Management System                                        | React, Tailwind, Node, Express, MongoDB, Cloudinary API                              |
+| **Query Forge** - An API based qna building system                                           | React, Tailwind, Node, Express, MongoDB, Puppeteer, Browserless API Gemini Flash 2.5 |
 
 ---
 
@@ -89,11 +89,10 @@
 
 - Secured **AIR 8129** in Gate CS among 1.7 lac candidates (Top 5%)
 - Secured Rank 1 in **Illuminati Code Clash 2025** at ITM(SLS) Baroda University
-- Achieved peak rating of 1729 in Leetcode
+- Participated in 70+ Leetcode contests and achieved peak rating of 1777 in Leetcode
 - Currently holding Institute rank 1 in GeeksForGeeks University Leaderboard
 - Solved 1000+ DSA Problems on Leetcode and GeeksForGeeks combined
-- Secured 2529/36341, 1805/32563 and 1698/31670 ranks in LeetCode Biweekly 137, Weekly 420 and Biweekly 161
-  contests respectively.
+- Secured 1805/32563, 1698/31670 and 2206/35629 ranks in LeetCode Weekly 420, Biweekly 161 and Weekly 464 contests respectively.
 
 ---
 
@@ -170,13 +169,11 @@
       <br/> Codolio
     </td>
     <td align="center">
-      <a href="https://personal-portfolio-website-gamma-nine.vercel.app/"><img src="./Assets/coder_logo.png" style="border-radius:50%; border:2px solid white"height="75" width="75"></a>
+      <a href="https://ashok-bhatt-619-portfolio.vercel.app/"><img src="./Assets/coder_logo.png" style="border-radius:50%; border:2px solid white"height="75" width="75"></a>
       <br/> Portfolio
     </td>
   </tr>
 </table>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ashok-Bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="ashokbhatt" /> </p>
 
 ---
 
