@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ashok Bhatt
 
-### Final Year Student @ ITM(SLS) Baroda University | Leetcode Knight (Max Rating 1777) | MERN Stack | GenAI | Software Development Enthusiast
+### Final Year Student @ ITM(SLS) Baroda University | Leetcode Knight (Max Rating 1865) | MERN Stack | GenAI | Software Development Enthusiast
 
 ## About Me
 
